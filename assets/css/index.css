@@ -18,6 +18,7 @@ body {
     text-align: center;
     align-items: center;
     background-color: rgb(160, 214, 252);
+    touch-action: manipulation;
 }
 
 /*startHeader/*/
